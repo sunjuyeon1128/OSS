@@ -1,6 +1,10 @@
 # OSS
 
+
+
 ##### 리눅스 명령어_20203161 컴퓨터공학과 선주연
+
+
 
 ### ·top : 시스템의 프로세스/메모리 사용 상태를 5초의 간격으로 업데이트하여 출력
 
@@ -19,6 +23,9 @@
  -s : 몇 개의 대화식 명령을 비활성화(시큐어 모드).
  
  -S : 누적된 정보를 출력
+
+
+ 
 
  
 
@@ -44,6 +51,8 @@
  
  --deselect : -N 옵션과 같음
 
+
+
  
 
 ### ·jobs
@@ -56,6 +65,8 @@
  
  command : 지정한 명령어를 실행
  
+
+
 
 
 
@@ -73,8 +84,16 @@
 
 
 
+
+
+
 [자료]
+
 top : https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321
+
 ps : https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321
+
 jobs : https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321
+
 kill : https://terms.naver.com/entry.naver?docId=4125687&cid=59321&categoryId=59321
+
